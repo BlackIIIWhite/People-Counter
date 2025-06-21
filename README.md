@@ -13,6 +13,7 @@ Hi! I'm **Amit**, and this is a practice project where I built a **people counti
 - This is a **solo practice project** developed to strengthen my skills in computer vision and object tracking.
 
 ---
+![Screenshot 2025-06-21 185708](https://github.com/user-attachments/assets/f071a8ac-6c8f-4df2-b3f4-c589efd2af65)
 
 ## 📦 Download & Setup Instructions
 
